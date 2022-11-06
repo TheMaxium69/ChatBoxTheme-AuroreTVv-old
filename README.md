@@ -17,8 +17,8 @@ Theme ChatBox pour la chaine Twitch AuroreTVv
  
 [Link](https://streamlabs.com/dashboard#/chatbox) -> Enable Custom HTML/CSS -> Enabled
 
-[HTML]() -> Copy code
+[HTML](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-AuroreTVv/main/import/chatbox.html) -> Copy code
 
-[CSS]() -> Copy code
+[CSS](https://github.com/TheMaxium69/ChatBoxTheme-AuroreTVv/blob/main/import/chatbox.css) -> Copy code
 
-[JS]() -> Copy code
+[JS](https://github.com/TheMaxium69/ChatBoxTheme-AuroreTVv/blob/main/import/chatbox.js) -> Copy code
