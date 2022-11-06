@@ -1,7 +1,8 @@
 # ChatBoxTheme-AuroreTVv
 Theme ChatBox pour la chaine Twitch AuroreTVv
 
-![image](https://user-images.githubusercontent.com/63310746/200149426-bd38a324-a3f9-409f-a8bc-f510a8e77f67.png)
+![image](https://user-images.githubusercontent.com/63310746/200152875-b3b5a6b4-9fda-4e85-9478-a56ffaa18cfc.png)
+
 
 
 ## Obligatiore
