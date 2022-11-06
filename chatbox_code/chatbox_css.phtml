@@ -1,5 +1,4 @@
 <style>
-@import url(https://fonts.googleapis.com/css?family=Roboto:700);
 @import url('https://fonts.cdnfonts.com/css/holy-blood');
 
 *,
@@ -66,12 +65,12 @@ body {
   color: #F1F1F1;
   position: absolute;
   padding: 0 5px;
-  border-radius: 5px 0 5px 0;
+  border-radius: 5px;
   transform: translate(-5px, -20px);
   font-size: 15px;
   padding-right: 10px;
-
-  background: <?= $text_color ?>;
+  
+  background-color: <?= $text_color ?>;
 }
 
 #log .meta {
@@ -81,16 +80,15 @@ body {
 }
 
 #log .message {
-  padding: 15px;
-  white-space: nowrap;
+  /* white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
+  text-overflow: ellipsis; */
 
-  background: white; /* #FFFFFF */
-  border-radius: 5px 0px 5px 0px;
-  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, .64);
-  
-  width: 500px;
+  white-space: normal;
+
+
+  width: 93%;
+  float: left;
 }
 
 .colon {
@@ -108,14 +106,38 @@ body {
 
 .name {
   margin-left: 0.2em;
-  /* font-family: "Roboto"; */
+  /*font-family: "Roboto";*/
+}
+
+.float-icone{
+  height: 100%;
+  float: right;
 }
 
 .icone {
-  position: absolute;
-  width: 37px;
-  float: right;
-  left: 486px;
-  margin-top: 29px;
+  position: sticky;
+/* width: 37px;
+float: right;
+left: 472px;
+margin-top: 100%; */
+width: 28px;
+top: 100%;
+}
+
+#log .bull{
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  
+  padding: 15px;
+
+  background: white; /* #FFFFFF */
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, .64);
+
+  
+  width: 500px;
+
 }
 </style>

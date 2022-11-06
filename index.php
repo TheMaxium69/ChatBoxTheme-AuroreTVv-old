@@ -4,10 +4,10 @@ require_once "modules/head.phtml";
 
 $from = "TheMaximeSan";
 $messageId = "12398123089120";
-$message = "Je suis un message test";
+$message = "Je suis un message test, et je t'aime mon chou ! oui j'ecrit un gros message pour te montré le rendu sur ton stream";
 
 $color = "red"; /* user color */
-$background_color = "transparent";
+$background_color = "#17242D";
 $font_size = "16px";
 $text_color = "#E40000";
 $message_hide_delay = "0s";
