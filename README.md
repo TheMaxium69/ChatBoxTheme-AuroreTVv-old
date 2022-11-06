@@ -6,7 +6,7 @@ Theme ChatBox pour la chaine Twitch AuroreTVv
 
 ## Obligatiore
 
-> Background Color : transparent
+> Background Color : Transparent
 
 > Text Color : Choose Color
 
