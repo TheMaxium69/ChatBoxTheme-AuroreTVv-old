@@ -1,6 +1,10 @@
 # ChatBoxTheme-AuroreTVv
 Theme ChatBox pour la chaine Twitch AuroreTVv
 
+[![Version v2](https://img.shields.io/badge/Version-v1-3960ef)](https://github.com/TheMaxium69/ChatBoxTheme-AuroreTVv/tree/v2)
+![GitHub top language](https://img.shields.io/github/languages/top/TheMaxium69/ChatBoxTheme-AuroreTVv)
+[![For](https://img.shields.io/badge/For-AuroreTVv-red)](https://twitch.tv/Auroretvv)
+
 ![image](https://user-images.githubusercontent.com/63310746/200149426-bd38a324-a3f9-409f-a8bc-f510a8e77f67.png)
 
 
