@@ -1,27 +1,23 @@
-# ChatBoxTheme-Template
-Template de création de Theme de ChatBox Streamlabs
+# ChatBoxTheme-AuroreTVv
+Theme ChatBox pour la chaine Twitch AuroreTVv
 
-![image](https://user-images.githubusercontent.com/63310746/200148779-5fa73bbe-2e42-4d05-ad7e-85296c20d503.png)
 
-## Dev file
 
-```
-chatbox_code/
-```
+## Obligatiore
+
+> Background Color : transparent
+
+> Text Color : #F00202
+
+> Font Size : 12px
  
  
- ## fonctionnement
+## Tuto
  
- replace
- ```
- {color}
- ```
-par
-```
-<?= $color ?>
-```
+[Link](https://streamlabs.com/dashboard#/chatbox) -> Enable Custom HTML/CSS -> Enabled
 
-exemple 
-```
-chatbox_code/import_exemple/
-```
+[HTML]() -> Copy code
+
+[CSS]() -> Copy code
+
+[JS]() -> Copy code
