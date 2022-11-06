@@ -8,8 +8,8 @@ $message = "Je suis un message test";
 
 $color = "red"; /* user color */
 $background_color = "transparent";
-$font_size = "12px";
-$text_color = "#F00202";
+$font_size = "16px";
+$text_color = "#E40000";
 $message_hide_delay = "0s";
 
 // CSS CODE

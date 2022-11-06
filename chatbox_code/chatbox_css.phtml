@@ -64,11 +64,14 @@ body {
 
 #log .meta {
   color: #F1F1F1;
-  background: <?= $text_color ?>;
   position: absolute;
   padding: 0 5px;
   border-radius: 5px 0 5px 0;
   transform: translate(-5px, -20px);
+  font-size: 15px;
+  padding-right: 10px;
+
+  background: <?= $text_color ?>;
 }
 
 #log .meta {
@@ -78,7 +81,7 @@ body {
 }
 
 #log .message {
-  padding: 5px;
+  padding: 15px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -87,7 +90,7 @@ body {
   border-radius: 5px 0px 5px 0px;
   box-shadow: 1px 1px 5px 2px rgba(0, 0, 0, .64);
   
-  text-shadow: 0 0 1px #000, 0 0 2px #000;
+  width: 500px;
 }
 
 .colon {
@@ -105,6 +108,14 @@ body {
 
 .name {
   margin-left: 0.2em;
-  font-family: "Roboto";
+  /* font-family: "Roboto"; */
+}
+
+.icone {
+  position: absolute;
+  width: 37px;
+  float: right;
+  left: 486px;
+  margin-top: 29px;
 }
 </style>
