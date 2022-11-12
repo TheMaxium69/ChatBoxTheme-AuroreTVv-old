@@ -4,16 +4,16 @@
 
 <!-- chat item -->
 <!-- <script type="text/template" id="chatlist_item"> -->
-<div data-from="<?= $from ?>" data-id="<?= $messageId ?>">
+<div data-from="<?= $from[$x] ?>" data-id="<?= $messageId ?>">
     <span class="meta">
       <span class="badges">
       </span>
-      <span class="name"><?= $from ?></span>
+      <span class="name"><?= $from[$x] ?></span>
     </span>
 
     <div class="bull">
       <span class="message">
-        <?= $message ?>
+        <?= $message[$x] ?>
       </span>
       <div class="float-icone">
         <img class="icone" src="https://tyrolium.fr/Contenu/Image/other/icone.png" alt="icone">
